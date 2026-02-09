@@ -88,7 +88,7 @@ data/
 └── CustomerExodus.csv
 sql/
 └── analysis.sql
-└── README.md
+README.md
 ```
 
 
