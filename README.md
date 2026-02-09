@@ -83,13 +83,13 @@ The project uses three core tables:
 
 ## 📁 Project Structure
 
+```
 data/
-├── departments.csv
-├── locations.csv
-├── patients.csv
-└── wait.csv
+└── CustomerExodus.csv
 sql/
 └── analysis.sql
+└── README.md
+```
 
 
 ---
